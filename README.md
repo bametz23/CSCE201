@@ -6,7 +6,7 @@
 
   Instructor: Dr. Nick Stiffler
 
-<i> Homework, projects, and other misc data </i>
+<i> Homework/projects </i>
 <h2> Grade: A </h2>
   
 
