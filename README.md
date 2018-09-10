@@ -10,4 +10,4 @@
 <h2> Grade: A </h2>
   
 
-<i> <h3> Note:  Some data for this course may be missing. </i> </h3>
+<i> <b> Note:  Some data for this course may be missing. </i> </b>
